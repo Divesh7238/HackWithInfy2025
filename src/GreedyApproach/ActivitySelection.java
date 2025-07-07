@@ -1,3 +1,5 @@
+package GreedyApproach;
+
 import java.util.*;
 
 class Activity {

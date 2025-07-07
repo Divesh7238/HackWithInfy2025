@@ -1,3 +1,5 @@
+package GreedyApproach;
+
 import java.util.*;
 
 // Class to represent an item with value and weight
